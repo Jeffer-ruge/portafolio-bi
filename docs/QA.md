@@ -25,3 +25,10 @@ La validación móvil se realizó con dimensiones y entrada táctil emuladas. El
 
 Las fechas de inicio de Sion Trade, Atento y el proyecto SENA se muestran tal como se documentó en la versión anterior. La hoja de vida descargable sigue siendo el PDF fuente suministrado por el usuario.
 
+
+## Resultado
+
+- Compilación de producción y ESLint completados. 18 comprobaciones de Playwright aprobadas en Chrome, con una repetición focalizada de la prueba de proporciones.
+- Altura de la portada en las mediciones visuales: 506 px a 1440 px de ancho, 564 px a 390 px y 631 px a 320 px.
+- Las miniaturas de habilidades midieron 128 × 107 px en escritorio y 80 × 67 px en móvil. Las tarjetas de casos no generan desplazamiento horizontal de página.
+- La versión para Pages incluye el cierre «Oportunidades profesionales» y las rutas de imágenes, casos, recursos de Next.js y hoja de vida bajo /portafolio-bi/.
