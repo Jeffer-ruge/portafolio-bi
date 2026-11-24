@@ -1,0 +1,18 @@
+{
+  "degrees": [
+    { "title": "Ingeniería de Sistemas", "org": "Corporación Unificada Nacional (CUN)", "date": "8.º semestre" },
+    { "title": "Tecnólogo en Gestión Administrativa", "org": "Servicio Nacional de Aprendizaje (SENA)", "date": "2019" },
+    { "title": "Técnico en Información Turística Local", "org": "Servicio Nacional de Aprendizaje (SENA)", "date": "2017" }
+  ],
+  "courses": [
+    { "title": "Power Automate", "org": "Udemy", "date": "Oct. 2026" },
+    { "title": "n8n + MCP: Automatización y agentes de IA" },
+    { "title": "Diplomado en Power BI y Excel avanzado", "org": "Politécnico Suramericano", "date": "2023" },
+    { "title": "Excel avanzado", "org": "CET Educación Tecnológica", "date": "2023" },
+    { "title": "Python", "org": "Udemy", "date": "2023" },
+    { "title": "Diplomado en programación PHP y Java", "org": "Universidad Politécnica de Colombia", "date": "2023" },
+    { "title": "Inglés avanzado Upper II", "org": "CET Educación Tecnológica", "date": "2023" },
+    { "title": "Análisis de datos y Big Data", "org": "CET Educación Tecnológica", "date": "2022" }
+  ],
+  "virtualTopics": ["SQL", "ingeniería de datos", "orquestación de agentes de IA", "Harness Engineering"]
+}
