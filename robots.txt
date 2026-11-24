@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /portafolio-bi/
+
+Sitemap: https://jeffer-ruge.github.io/portafolio-bi/sitemap.xml

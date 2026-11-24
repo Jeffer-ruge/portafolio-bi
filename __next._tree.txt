@@ -1,0 +1,4 @@
+:HL["/portafolio-bi/_next/static/chunks/379nhsvtx6q5w.css","style"]
+:HC["/",""]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"z2Cl14J4JIQhHBmwE9l6I","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
